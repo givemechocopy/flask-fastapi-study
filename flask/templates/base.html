@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block pagetitle %}기본 웹사이트 {%endblock pagetitle %}</title>
+</head>
+<body>
+    <header>
+        <h1>나의 웹사이트 방문을 환영합니다!</h1>
+    </header>
+    {% block maincontent %}
+    {% endblock maincontent %}
+
+    <footer>
+        <p>&copy; 나의 웹 사이트</p>
+    </footer>
+</body>
+</html>
