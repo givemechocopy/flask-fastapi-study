@@ -1,1 +1,1 @@
-# flask-fastapi-stduy
+# flask-fastapi-study
