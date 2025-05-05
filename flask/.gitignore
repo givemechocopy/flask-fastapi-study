@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+.venv/
+venv/
+
+# 환경 변수 설정 파일
+.env
+
+# IDE 설정
+.vscode/
+.idea/
+
+# OS 관련 파일
+.DS_Store
+
+# 기타
+*.log
